@@ -1,5 +1,6 @@
 name: Detect Secrets
 
+
 on:
   workflow_dispatch:
 
